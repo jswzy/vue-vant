@@ -1,3 +1,10 @@
+<!--
+ * @Author: wangzhiy
+ * @Date: 2022-07-13 16:52:06
+ * @LastEditors: wangzhiy
+ * @LastEditTime: 2022-07-13 17:22:23
+ * @Description:  
+-->
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
@@ -9,7 +16,7 @@
       <van-swipe-item>3</van-swipe-item>
       <van-swipe-item>4</van-swipe-item>
     </van-swipe>
-<!-- <van-rate v-model="value" /> -->
+<!-- <van-rate v-model="value"  /> -->
   </div>
 </template>
 
